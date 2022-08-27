@@ -8,4 +8,5 @@ make informed decisions about his spending. David has collected the necessary da
 - where is the total amount David spends each month? 
 - How much does he spend on average in each category? 
 - And what percentage of his total spending is spent in each of these categories.
-The link to the excel file: https://github.com/nguneonard/Microsoft-excel projects/blob/main/Hands%20on%20guided%20project_%20create%20a%20personal%20spending%20budget.xlsx
+The figure below shows his spending habit.
+<img src=""  title="hover text">
