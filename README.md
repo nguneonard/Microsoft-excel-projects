@@ -9,4 +9,4 @@ make informed decisions about his spending. David has collected the necessary da
 - How much does he spend on average in each category? 
 - And what percentage of his total spending is spent in each of these categories.
 The figure below shows his spending habit.
-<img src=""  title="hover text">
+<img src="https://github.com/nguneonard/Microsoft-excel-projects/blob/main/r.png"  title="hover text">
